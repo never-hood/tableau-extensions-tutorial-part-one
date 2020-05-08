@@ -1,0 +1,14 @@
+{
+  "name": "Q1",
+  "version": "0.0.1",
+  "description": "First",
+  "main": "1",
+  "repository": "1",
+  "author": "1",
+  "license": "1",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.5.1"
+  }
+}
